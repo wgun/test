@@ -28,4 +28,4 @@ SELECT SUBSTR(LOG_DTM, 1, 8) AS BASE_DT
              , CURR_PAGE_ID
              , INPATH_CD
           FROM HDSVC_DEP_APP_LOG_CDC_T
-       ) T1;
+       ) T1; 
